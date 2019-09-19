@@ -1,0 +1,5 @@
+10
+nznooeeoer
+
+----
+Expected output: 1 1 0
