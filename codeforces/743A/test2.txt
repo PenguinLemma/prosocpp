@@ -1,0 +1,5 @@
+5 5 2
+10110
+
+----
+Expected output: 0

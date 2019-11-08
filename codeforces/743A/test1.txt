@@ -1,0 +1,5 @@
+4 1 4
+1010
+
+----
+Expected output: 1
